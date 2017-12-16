@@ -1,0 +1,12 @@
+﻿  Main.cpp
+Main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Particle.cpp
+  Screen.cpp
+  Swarm.cpp
+     Creating library C:\Development\My_Projects\Particle_Fire_Explosion\x64\Release\Particle_Fire_Explosion.lib and object C:\Development\My_Projects\Particle_Fire_Explosion\x64\Release\Particle_Fire_Explosion.exp
+  Generating code
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Particle_Fire_Explosion.vcxproj -> C:\Development\My_Projects\Particle_Fire_Explosion\x64\Release\Particle_Fire_Explosion.exe

@@ -1,0 +1,14 @@
+﻿  Bitmap.cpp
+  Fractal_Creator.cpp
+Fractal_Creator.cpp(19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Fractal_Creator.cpp(145): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+Fractal_Creator.cpp(146): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+Fractal_Creator.cpp(147): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Main.cpp
+  Mandelbrot.cpp
+  RGB.cpp
+  Zoom_List.cpp
+  Generating code
+  All 383 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Fractal_Creator.vcxproj -> C:\Development\My_Projects\Fractal_Creator\x64\Release\Fractal_Creator.exe
